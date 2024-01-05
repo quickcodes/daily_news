@@ -1,5 +1,7 @@
 # News App
 
+#### A software developer writes code, but a software engineer writes good code.
+
 ## Overview
 
 This Flutter application is a News App that allows users to view news articles and save them locally for future reference. The app is built using the Clean Architecture principles, promoting separation of concerns and maintainability.
