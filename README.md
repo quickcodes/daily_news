@@ -1,6 +1,6 @@
 # News App
 
-#### A software developer writes code, but a software engineer writes good code.
+### A software developer writes code, but a software engineer writes good code.
 
 ## Overview
 
