@@ -35,4 +35,3 @@ class ArticleEntity extends Equatable {
     ];
   }
 }
-// test
