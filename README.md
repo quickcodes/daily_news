@@ -56,7 +56,7 @@ The project follows a modular structure:
     - Contributing
     - Feel free to contribute to the project by opening issues, submitting pull requests, or suggesting improvements. Your feedback and contributions are highly appreciated.
 
-
+```
 lib
 ├───config
 │   ├───routes
@@ -89,7 +89,7 @@ lib
     │       │   └───saved_article
     │       └───widgets
     └───home
-
+```
 
 ## Contributing
 Feel free to contribute to the project by opening issues, submitting pull requests, or suggesting improvements. Your feedback and contributions are highly appreciated.
