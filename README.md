@@ -68,29 +68,28 @@ lib
 │   ├───resources
 │   └───usecase
 └───features
-    ├───daily_news
-    │   ├───data
-    │   │   ├───data_source
-    │   │   │   ├───local
-    │   │   │   │   └───DAO
-    │   │   │   └───remote
-    │   │   ├───models
-    │   │   └───repository
-    │   ├───domain
-    │   │   ├───entities
-    │   │   ├───respository
-    │   │   └───usecase
-    │   └───presentation
-    │       ├───bloc
-    │       │   ├───local
-    │       │   └───remote
-    │       │       └───bloc
-    │       ├───pages
-    │       │   ├───article_detail
-    │       │   ├───home
-    │       │   └───saved_article
-    │       └───widgets
-    └───home
+    └───daily_news
+        ├───data
+        │   ├───data_source
+        │   │   ├───local
+        │   │   │   └───DAO
+        │   │   └───remote
+        │   ├───models
+        │   └───repository
+        ├───domain
+        │   ├───entities
+        │   ├───respository
+        │   └───usecase
+        └───presentation
+            ├───bloc
+            │   ├───local
+            │   └───remote
+            │       └───bloc
+            ├───pages
+            │   ├───article_detail
+            │   ├───home
+            │   └───saved_article
+            └───widgets
 ```
 
 ## Contributing
