@@ -55,8 +55,9 @@ The project follows a modular structure:
     - presentation/: Presentation layer, responsible for UI and user interactions.
     - core/: Core components shared across layers.
     - main.dart: Entry point of the application.
-    - Contributing
-    - Feel free to contribute to the project by opening issues, submitting pull requests, or suggesting improvements. Your feedback and contributions are highly appreciated.
+
+- Contributing
+   - Feel free to contribute to the project by opening issues, submitting pull requests, or suggesting improvements. Your feedback and contributions are highly appreciated.
 
 ```
 lib
